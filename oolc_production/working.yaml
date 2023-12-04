@@ -3,7 +3,7 @@ project_name: "oobb adapter for electrical light panel 600 mm x 600 mm baumatic 
 project_repo: github.com/oomlout/oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
 production_format:
   a4_1_x2:
-    file_location: source_files/oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w_x4_a4.cdr
+    file_location: source_files/oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w_x2_a4.cdr
   tileable_1:
     file_location: source_files/oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w_tileable.cdr
     width: 134 mm
