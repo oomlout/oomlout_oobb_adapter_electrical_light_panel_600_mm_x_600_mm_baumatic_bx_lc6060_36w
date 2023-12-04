@@ -5,7 +5,7 @@
 viewBox="0 0 21000 29700"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="690" font-variant="normal" class="str1" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" class="str1" style="fill-rule:nonzero" font-weight="400">
 	<font-face 
 		font-family="Lucida Sans Unicode">
 	</font-face>
@@ -46,53 +46,107 @@ viewBox="0 0 21000 29700"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_864140752">
-   <g>
-    <path class="fil0 str0" d="M16700 10400l-12400 0c-276,0 -500,224 -500,500l0 7900c0,276 224,500 500,500l12400 0c276,0 500,-224 500,-500l0 -7900c0,-276 -224,-500 -500,-500z"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 6000 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 7500 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 6750 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 5250 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 9000 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 10500 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 9750 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 8250 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 12000 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 13500 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 12750 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 11250 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 15000 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 16500 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 15750 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 14250 11100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 12600)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 14100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 11850)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 13350)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 15600)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 17100)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 14850)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 16350)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 18600)" r="175"/>
-    <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 17850)" r="175"/>
-    <g transform="matrix(1.00001 0 0 1 1888.56 1008.26)">
-     <text x="6221" y="14850"  class="fil0 str2 fnt0">oomp_electrical_light_panel</text>
-    </g>
-    <g transform="matrix(1.00001 0 0 1 1888.56 1008.26)">
-     <text x="7280" y="15826"  class="fil0 str2 fnt0">600_mm_x_600_mm</text>
-    </g>
-    <g transform="matrix(1.00001 0 0 1 1888.56 1008.26)">
-     <text x="6509" y="16802"  class="fil0 str2 fnt0">baumatic_bx_lc6060_36w</text>
-    </g>
-    <g transform="matrix(1.00001 0 0 1 1888.56 1008.26)">
-     <text x="8590" y="17777"  class="fil0 str2 fnt0">oobb_43_43</text>
-    </g>
-    <circle class="fil0 str0" transform="matrix(2.34608E-014 0.885828 0.885828 -2.34608E-014 8000 14100)" r="1693"/>
+  <g id="_872157008">
+   <path class="fil0 str0" d="M16700 15000l-12400 0c-276,0 -500,224 -500,500l0 10900c0,276 224,500 500,500l12400 0c276,0 500,-224 500,-500l0 -10900c0,-276 -224,-500 -500,-500z"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 6000 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 7500 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 6750 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 5250 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 9000 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 10500 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 9750 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 8250 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 12000 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 13500 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 12750 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 11250 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 15000 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 16500 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 15750 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 14250 15700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 17200)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 18700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 16450)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 17950)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 20200)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 21700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 19450)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 20950)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 23200)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 22450)" r="175"/>
+   <g transform="matrix(1.00001 0 0 1 1888.56 7108.26)">
+    <text x="6221" y="14850"  class="fil0 str2 fnt0">oomp_electrical_light_panel</text>
    </g>
-   <circle class="fil0 str0" cx="10250" cy="13350" r="150"/>
-   <circle class="fil0 str0" cx="15250" cy="13350" r="150"/>
-   <circle class="fil0 str0" transform="matrix(2.63419E-015 -0.0994614 0.0994614 2.63419E-015 6750 18470)" r="2011"/>
+   <g transform="matrix(1.00001 0 0 1 1888.56 7108.26)">
+    <text x="7280" y="15826"  class="fil0 str2 fnt0">600_mm_x_600_mm</text>
+   </g>
+   <g transform="matrix(1.00001 0 0 1 1888.56 7108.26)">
+    <text x="6509" y="16802"  class="fil0 str2 fnt0">baumatic_bx_lc6060_36w</text>
+   </g>
+   <g transform="matrix(1.00001 0 0 1 1888.56 7108.26)">
+    <text x="8590" y="17777"  class="fil0 str2 fnt0">oobb_43_43</text>
+   </g>
+   <circle class="fil0 str0" transform="matrix(2.34608E-014 0.885828 0.885828 -2.34608E-014 8000 18700)" r="1693"/>
+   <circle class="fil0 str0" cx="10250" cy="17950" r="150"/>
+   <circle class="fil0 str0" cx="15250" cy="17950" r="150"/>
+   <circle class="fil0 str0" transform="matrix(2.63419E-015 -0.0994614 0.0994614 2.63419E-015 6750 23070)" r="2011"/>
+   <circle class="fil0 str0" transform="matrix(2.63419E-015 -0.0994614 0.0994614 2.63419E-015 6750 25610)" r="2011"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 24700)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 23950)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 26200)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 25450)" r="175"/>
+  </g>
+  <g id="_861793744">
+   <path class="fil0 str0" d="M16700 2800l-12400 0c-276,0 -500,224 -500,500l0 10900c0,276 224,500 500,500l12400 0c276,0 500,-224 500,-500l0 -10900c0,-276 -224,-500 -500,-500z"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 6000 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 7500 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 6750 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 5250 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 9000 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 10500 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 9750 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 8250 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 12000 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 13500 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 12750 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 11250 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 15000 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 16500 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 15750 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 14250 3500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 5000)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 6500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 4250)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 5750)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 8000)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 9500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 7250)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 8750)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 11000)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 10250)" r="175"/>
+   <g transform="matrix(1.00001 0 0 1 1888.56 -5091.74)">
+    <text x="6221" y="14850"  class="fil0 str2 fnt0">oomp_electrical_light_panel</text>
+   </g>
+   <g transform="matrix(1.00001 0 0 1 1888.56 -5091.74)">
+    <text x="7280" y="15826"  class="fil0 str2 fnt0">600_mm_x_600_mm</text>
+   </g>
+   <g transform="matrix(1.00001 0 0 1 1888.56 -5091.74)">
+    <text x="6509" y="16802"  class="fil0 str2 fnt0">baumatic_bx_lc6060_36w</text>
+   </g>
+   <g transform="matrix(1.00001 0 0 1 1888.56 -5091.74)">
+    <text x="8590" y="17777"  class="fil0 str2 fnt0">oobb_43_43</text>
+   </g>
+   <circle class="fil0 str0" transform="matrix(2.34608E-014 0.885828 0.885828 -2.34608E-014 8000 6500)" r="1693"/>
+   <circle class="fil0 str0" cx="10250" cy="5750" r="150"/>
+   <circle class="fil0 str0" cx="15250" cy="5750" r="150"/>
+   <circle class="fil0 str0" transform="matrix(2.63419E-015 -0.0994614 0.0994614 2.63419E-015 6750 10870)" r="2011"/>
+   <circle class="fil0 str0" transform="matrix(2.63419E-015 -0.0994614 0.0994614 2.63419E-015 6750 13410)" r="2011"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 12500)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 11750)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(4.55009E-014 1.71802 1.71802 -4.55009E-014 4500 14000)" r="175"/>
+   <circle class="fil0 str0" transform="matrix(2.27504E-014 0.859008 0.859008 -2.27504E-014 4500 13250)" r="175"/>
   </g>
  </g>
 </svg>
